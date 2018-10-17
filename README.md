@@ -1,6 +1,6 @@
 # Minicurso HTML5/CSS3
 
-Roteiro para minicurso de HTML5 e CSS3 realizado na UFJF
+Roteiro para minicurso de HTML5 e CSS3 realizado na UFJF. [Preview do projeto completo](http://maxjf1.github.io/minicurso-css3/)
 
 ## Introdução
 
